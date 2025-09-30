@@ -35,4 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=borhan-m-uddin&show_icons=true&locale=en" alt="borhan-m-uddin" /></p>
 
-<br clear="both"><img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
